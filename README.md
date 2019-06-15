@@ -13,3 +13,6 @@ $ make
 ```
 $ ./my_hunter
 ```
+
+## Game
+![myHunter](https://github.com/mrCaelum/myHunter/blob/master/hunter.png)
